@@ -1,0 +1,12 @@
+1. 	What is the correct syntax to add a message to a commit?
+ANSWER: git commit -m "decription about the change or message you want to display along change."
+
+2.	Which command is used to create an empty Git repository?
+Answer: first go to gitbash terminal and inside a new directory using... 
+       *mkdir Assignment 
+        And initialize above folder as git repo using ...
+       *git init 
+        (which create a .git file in our folder through which git/github track all our activity or changes.) 
+3.Create a account on GitHub and repository for code.
+4.Commit code and push on main branch
+5.Create Pull request
